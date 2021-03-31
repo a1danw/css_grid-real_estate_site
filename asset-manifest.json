@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/css_grid-real_estate_site/static/css/main.b9f221cd.chunk.css",
+    "main.js": "/css_grid-real_estate_site/static/js/main.8cd030e4.chunk.js",
+    "main.js.map": "/css_grid-real_estate_site/static/js/main.8cd030e4.chunk.js.map",
+    "runtime-main.js": "/css_grid-real_estate_site/static/js/runtime-main.bd2a425b.js",
+    "runtime-main.js.map": "/css_grid-real_estate_site/static/js/runtime-main.bd2a425b.js.map",
+    "static/js/2.7d471ecf.chunk.js": "/css_grid-real_estate_site/static/js/2.7d471ecf.chunk.js",
+    "static/js/2.7d471ecf.chunk.js.map": "/css_grid-real_estate_site/static/js/2.7d471ecf.chunk.js.map",
+    "index.html": "/css_grid-real_estate_site/index.html",
+    "precache-manifest.f12070941b51e2b2109835701ffd7a68.js": "/css_grid-real_estate_site/precache-manifest.f12070941b51e2b2109835701ffd7a68.js",
+    "service-worker.js": "/css_grid-real_estate_site/service-worker.js",
+    "static/css/main.b9f221cd.chunk.css.map": "/css_grid-real_estate_site/static/css/main.b9f221cd.chunk.css.map",
+    "static/js/2.7d471ecf.chunk.js.LICENSE.txt": "/css_grid-real_estate_site/static/js/2.7d471ecf.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/css_grid-real_estate_site/static/media/hero.d11b666f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2a425b.js",
+    "static/js/2.7d471ecf.chunk.js",
+    "static/css/main.b9f221cd.chunk.css",
+    "static/js/main.8cd030e4.chunk.js"
+  ]
+}
